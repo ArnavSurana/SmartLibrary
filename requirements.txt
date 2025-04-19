@@ -1,0 +1,5 @@
+python-dotenv
+PyMuPDF==1.22.5
+numpy
+pinecone-client>=3.0.0
+google-generativeai>=0.3.2
